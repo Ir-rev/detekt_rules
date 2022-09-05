@@ -1,4 +1,4 @@
-package org.example.detekt
+package com.github.ir-rev.detekt_rules
 
 import io.gitlab.arturbosch.detekt.api.Config
 import io.gitlab.arturbosch.detekt.api.RuleSet
